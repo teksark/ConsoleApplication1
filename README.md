@@ -1,8 +1,8 @@
 # Hello World Console Application
-*Автор: Низовцов Евгений *
-Дата: **2018.05.29
-## Библиотеки:
+*Autor: Nizovtchov Evgenii *
+Data: **2018.05.29
+## Headers:
 1. stdafx.h
 2. iostream.h
 ***
-### Открытая лицензия 
+### Open source 
